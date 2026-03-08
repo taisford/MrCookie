@@ -1,7 +1,7 @@
 
 # DonGalleto
 
-## Contexto
+## Contexto - - - - -
 
 La empresa DonGalleto se dedica a la producción y venta de galletas, y es operada únicamente por el dueño y su esposa.
 
